@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">DrinkWaterFree</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="header">DrinkWater.free</string>
+    <string name="sub_title">Find the nearest drinking fountain</string>
+    <string name="localize_btn">Locatize Me</string>
+    <string name="enter_address">Enter your current location</string>
+    <string name="btn_search">Find</string>
+    <string name="header_safe_to_drink">Tap water is safe to drink and tastes sweet!</string>
+    <string name="safe_to_drink">The Netherlands and Amsterdam have the safest and cleanest tap water
+        in Europe. In case you doubt: the quality of Dutch drinking water is constantly monitored
+        and checked. It was top rated by a comparative reserach published in Science Magazine 2016/02 Vol. 351!
+        As no chlorine is used, the water actually tastes sweet. If you want to find out how this
+        is done, vist Science Center Nemo where an interactive display explains all the steps.</string>
+    <string name="header_quit">Quit buying bottled water</string>
+    <string name="quit_buying_bottled_water">There are drinking fountains all around Amsterdam.
+        Drinking water to stay hydrated and refreshed is cool and good for you but buying bottled
+        water is lame and bad for the environment. Bottled water is sold in stunning numbers:
+        in Amsterdam 21.7m liters water was sold in bottles in 2014 (Source:
+        AMS Instituut voor stadsonderzoek)</string>
+    <string name="copywrite">2017 by AngelikaDW - Icons designed by Freepick - Drinking fountains
+        courtesy of Waternet and Join the Pipe</string>
+</resources>
